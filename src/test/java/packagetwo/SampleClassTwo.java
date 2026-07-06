@@ -30,8 +30,6 @@ public class SampleClassTwo {
 
 	}
 	
-//Added new codes by testnaveen//
-	
 	@Test
 	public void seven() {
 		// TODO Auto-generated method stub
@@ -75,5 +73,23 @@ public class SampleClassTwo {
 		
 	}
 	
-	
+	public void naveenraj(String x) {
+		// TODO Auto-generated method stub
+		System.out.println("jj");
+
+	}
+
+
+@Test
+public void naveenraj() {
+	// TODO Auto-generated method stub
+	System.out.println("jj");
+
+}
+
+public void naveenraj(int x) {
+	// TODO Auto-generated method stub
+	System.out.println("jj");
+
+}
 }
