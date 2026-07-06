@@ -30,7 +30,22 @@ public class SampleClassTwo {
 
 	}
 	
+	@Test
+	public void naveenraj() {
+		// TODO Auto-generated method stub
+		System.out.println("jj");
+
+	}
 	
+	public void naveenraj(int x) {
+		// TODO Auto-generated method stub
+		System.out.println("jj");
+
+	}
 	
-	
+	public void naveenraj(String x) {
+		// TODO Auto-generated method stub
+		System.out.println("jj");
+
+	}
 }
