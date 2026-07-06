@@ -31,16 +31,46 @@ public class SampleClassTwo {
 	}
 	
 	@Test
-	public void naveenraj() {
+	public void seven() {
 		// TODO Auto-generated method stub
-		System.out.println("jj");
+		System.out.println("Test Case 4");
 
 	}
 	
-	public void naveenraj(int x) {
+	@Test
+	public void eight() {
 		// TODO Auto-generated method stub
-		System.out.println("jj");
+		System.out.println("Test Case 5");
 
+	}
+	
+	@Test
+	public void nine() {
+		// TODO Auto-generated method stub
+		System.out.println("Test Case 4");
+
+	}
+	
+	@Test
+	public void ten() {
+		// TODO Auto-generated method stub
+		System.out.println("Test Case 5");
+
+	}
+	
+	
+	@Test
+	public void eleven() {
+		// TODO Auto-generated method stub
+		System.out.println("Test Case 11");
+
+	}
+	
+	@Test
+	public void twelve() {
+		// TODO Auto-generated method stub
+		System.out.println("Test Case 12");
+		
 	}
 	
 	public void naveenraj(String x) {
@@ -48,4 +78,18 @@ public class SampleClassTwo {
 		System.out.println("jj");
 
 	}
+
+
+@Test
+public void naveenraj() {
+	// TODO Auto-generated method stub
+	System.out.println("jj");
+
+}
+
+public void naveenraj(int x) {
+	// TODO Auto-generated method stub
+	System.out.println("jj");
+
+}
 }
